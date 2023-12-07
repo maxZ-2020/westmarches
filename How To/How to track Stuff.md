@@ -6,14 +6,6 @@ Every Session gets its own Log. In this Log it is recorded which NPC gave/got wh
 
 Every Quest Like Thingy gets its own Log where the Progress is recorded.
 
-# Everything is a Note / Everything is an Entity
-
-* Leaves do not need to be Notes but can be
-* Examples for Objects that can be a Note
-	* Places
-	* NPCs/Monsters
-	* Items/Objects
-
 # Every Note has a Session Log
 
 The state of an Entity is tracked on a per Session basis. When the Entity is altered for the first time during that Session the Inventory/State is Copied and then subsequently altered.

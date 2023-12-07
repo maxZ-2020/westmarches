@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfefc0515e11c620","x":-430,"y":-460,"width":680,"height":520,"type":"text","text":"Room"},
+		{"id":"2d98444db1eeae77","x":-215,"y":160,"width":250,"height":60,"type":"text","text":"Door 1"},
+		{"id":"f08c82fbc8db9073","x":-60,"y":-400,"width":250,"height":60,"type":"text","text":"Chest"},
+		{"id":"fa472fdbf4c7df20","x":280,"y":-460,"width":400,"height":400,"type":"file","file":"How To/Example Place.md"}
+	],
+	"edges":[
+		{"id":"9a6b7008977a35f2","fromNode":"2d98444db1eeae77","fromSide":"top","toNode":"bfefc0515e11c620","toSide":"bottom"}
+	]
+}

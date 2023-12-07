@@ -3,11 +3,14 @@
 
 * 1 Potion of Minor Healing
 * 1 Dagger
-* Door - Open
+* Door 1
+	* Unlocked, Open
 ### [[Example Session 1]]
 
-* Locked Door
-* 2 Potion of Minor Healing
+* Door 1
+	* Locked
+* Chest
+	* 2 Potion of Minor Healing
 * [[Example NPC 1]]
 * [[Example NPC 2]]
 
