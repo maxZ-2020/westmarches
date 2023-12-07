@@ -1,5 +1,3 @@
-
-
 # Session Logs
 
 Every Session gets its own Log. In this Log it is recorded which NPC gave/got which Information from Whom.
@@ -22,7 +20,7 @@ The state of an Entity is tracked on a per Session basis. When the Entity is alt
 Keeping Track of everything is kind of time consuming. Inventories and Locations of NPCs/Items are Important and Quick to manage. An Item should only be a Note if it is a unique Item.
 
 Items that belong to the Player are Tracked by the Player.
-If they leave them in a special Place then a reference is recorded there so things can get stolen if need 
+If they leave them in a special Place then a reference is recorded there so things can get stolen if need be.
 ## Example Log for a Place
 
 ### [[Example Session 3]]
