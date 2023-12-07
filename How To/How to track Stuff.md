@@ -42,3 +42,5 @@ If the Entity has a Note the note is attached to the Canvas.
 	* Dugeons are Referenced on the Canvas for the Location they are in
 		* from there you can use the canvas backlinks to navigate upwards
 
+
+
