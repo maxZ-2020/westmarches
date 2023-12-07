@@ -19,7 +19,7 @@ Every Quest Like Thingy gets its own Log where the Progress is recorded.
 # Every Note has a Session Log
 
 The state of an Entity is tracked on a per Session basis. When the Entity is altered for the first time during that Session the Inventory/State is Copied and then subsequently altered.
-Keeping Track of everything is kind of time consuming. Inventories and Locations of NPCs/Items are Important and Quick to manage. Items should only be a Note if it is a unique Item
+Keeping Track of everything is kind of time consuming. Inventories and Locations of NPCs/Items are Important and Quick to manage. Items should only be a Note if it is a unique Item or if
 ## Example Log for a Place
 
 ### [[Example Session 3]]
