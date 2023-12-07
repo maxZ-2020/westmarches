@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"9705ee37317f1b2f","type":"text","text":"West Swamps","x":-860,"y":-400,"width":250,"height":60},
+		{"id":"3e17c5f88cd63c0b","type":"file","file":"maps/Otari City.canvas","x":-520,"y":-440,"width":400,"height":140},
+		{"id":"6cd745fda91cbbf9","type":"file","file":"maps/North Woods.canvas","x":-480,"y":-740,"width":200,"height":60}
+	],
+	"edges":[]
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "e3b237bb85854987",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f4f05df276e3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e420e0e33efdbfec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Otari City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6cb9b421938c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ce8b18f469df66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2737b00336d14750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49ce4d069c403448",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "375fc63154192709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cebecad04e0f95bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dacd36b4cf7d9543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9e52a93dd285c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Otari City.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc7eeef9b1c06ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Otari City.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f20426a4f9fdb959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83f29fd1e6787bc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Otari City.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e420e0e33efdbfec",
+  "lastOpenFiles": [
+    "Fishery.md",
+    "Otari City.md",
+    "Otari North Woods.md",
+    "maps/Otari Region.md",
+    "Dragon Wyrmling Remains.md",
+    "Otari Underground City.md",
+    "maps/001 - World Map.md",
+    "maps/Otari Region.canvas",
+    "maps/Otari City.canvas",
+    "maps/North Woods.canvas",
+    "maps/Otari Underground City and Caverns.canvas",
+    "maps/Otari.md",
+    "maps/Region of Otari.md",
+    "maps/Drawing 2023-12-07 19.04.47.excalidraw.md",
+    "maps"
+  ]
+}

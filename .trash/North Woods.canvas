@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2d3ce77cf54cf38e","type":"file","file":"maps/Otari Underground City and Caverns.canvas","x":-338,"y":-340,"width":377,"height":86},
+		{"id":"f5353cf4c0341a25","type":"text","text":"North Entrance to Underground City","x":-420,"y":-520,"width":250,"height":60},
+		{"id":"6eee5d88c472a4f8","type":"text","text":"Dragon Wyrmling Remains","x":-420,"y":-640,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"002358f769ee0511","fromNode":"f5353cf4c0341a25","fromSide":"bottom","toNode":"2d3ce77cf54cf38e","toSide":"top"}
+	]
+}

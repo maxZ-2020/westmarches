@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5882af035c4f1c29","type":"text","text":"Witch Shop","x":-120,"y":-280,"width":160,"height":50},
+		{"id":"74b6c176169072b5","type":"text","text":"Fishery","x":-102,"y":100,"width":125,"height":60},
+		{"id":"facebebc46622069","type":"text","text":"Temple","x":-680,"y":-160,"width":140,"height":50},
+		{"id":"890ff9e553282917","type":"text","text":"Tavern","x":-300,"y":-110,"width":120,"height":60},
+		{"id":"919dfbcd7c6ebafd","x":-74,"y":279,"width":334,"height":141,"type":"file","file":"maps/Otari Underground City and Caverns.canvas"}
+	],
+	"edges":[
+		{"id":"7d5bcabbfa9847f6","fromNode":"74b6c176169072b5","fromSide":"bottom","toNode":"919dfbcd7c6ebafd","toSide":"top"}
+	]
+}

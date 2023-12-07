@@ -1,0 +1,42 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": true,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "c",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "obsidian-git:commit"
+    },
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": true,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "C",
+          "shift": true,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "obsidian-git:commit-specified-message"
+    }
+  ]
+}
