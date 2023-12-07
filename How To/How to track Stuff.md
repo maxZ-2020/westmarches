@@ -38,4 +38,7 @@ If the Entity has a Note the note is attached to the Canvas.
 		* Look into that places Note. If it was there then one of the Session Entries references it and then you can figure out where it is now by clicking into that note and checking its log
 * What room connects to which again?
 	* Every Location that is relevant has a Canvas of the same Name
+* Where was that Dungeon again?
+	* Dugeons are Referenced on the Canvas for the Location they are in
+		* from there you can use the canvas backlinks to navigate upwards
 
