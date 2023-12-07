@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "Campagin 1/maps/Hill Site.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "Campagin 1/maps/Hill Site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to track Stuff.md"
+                "file": "Campagin 1/maps/Hill Site.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "Campagin 1/maps/Hill Site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,12 +230,12 @@
   },
   "active": "27f10b1433e23e39",
   "lastOpenFiles": [
+    "How To/How to track Stuff.md",
     "How To/Example Session 3.md",
     "How To/Example Session 1.md",
     "How To/Example Place.md",
     "How To/Example Place 2.md",
     "How To/Example NPC 2.md",
-    "How To/How to track Stuff.md",
     "How To/Example Place.canvas",
     "Campagin 1/Session 5.md",
     "Exmaple Place.md",
