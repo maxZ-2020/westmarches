@@ -30,7 +30,8 @@ If the Entity has a Note the note is attached to the Canvas.
 
 # Searching for Stuff
 
-* What was the name of that Darn Dwarf we met Ages ago
+* What was the name of that darn Dwarf we met Ages ago
 	* Look into the Session logs, if you talked to them it is there
-	* Do you remember any of the Places where you met him
-		* Look into that place. If he was there then one of the Session Entries references him
+* Where did I leave that darn item
+	* Do you remember any of the Places where you saw it
+		* Look into that places Note. If it was there then one of the Session Entries references it and then you can figure out where it is now by clicking into that note and checking its log
