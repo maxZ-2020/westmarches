@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "How To/Example Place.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,22 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "How To/Example NPC 2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4dc93cdbfc14c486",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,17 +68,8 @@
       {
         "id": "e1ce8b18f469df66",
         "type": "tabs",
+        "dimension": 25.943396226415093,
         "children": [
-          {
-            "id": "2737b00336d14750",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "49ce4d069c403448",
             "type": "leaf",
@@ -95,9 +78,9 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -108,6 +91,23 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5d77069935ddcba",
+        "type": "tabs",
+        "dimension": 74.05660377358491,
+        "children": [
+          {
+            "id": "2737b00336d14750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "How To/Example Place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to track Stuff.md"
+                "file": "How To/Example Place.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to track Stuff.md",
+                "file": "How To/Example Place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,16 +216,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abc64e57f6bd1d36",
+  "active": "2ca29494fe9b6964",
   "lastOpenFiles": [
     "How To/Example Place.canvas",
-    "How To/How to track Stuff.md",
     "How To/Example Place 2.md",
-    "How To/Example Place.md",
     "How To/Example NPC 2.md",
+    "How To/Example Place.md",
+    "How To/How to track Stuff.md",
+    "Campagin 1/Session 5.md",
     "Exmaple Place.md",
     "Campagin 1/Sessions.md",
-    "Campagin 1/Session 5.md",
     "Campagin 1",
     "How To",
     "Campagin 1/maps/Hill Site.md",
