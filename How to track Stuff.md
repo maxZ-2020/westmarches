@@ -1,5 +1,5 @@
 
-# Everything is a Note
+# Everything is a Note / Everything is an Entity
 
 * Leaves do not need to be Notes but can be
 * Examples for Objects that can be a Note
