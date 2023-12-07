@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e5a0181f8d9d9cbe","type":"file","file":"maps/Otari Swamps.canvas","x":-417,"y":-17,"width":400,"height":400},
+		{"id":"28c0cddc2c7d7eaf","type":"file","file":"maps/Otari City.canvas","x":80,"y":-17,"width":400,"height":400},
+		{"id":"102fdecbc6aa92ff","x":80,"y":-540,"width":400,"height":400,"type":"file","file":"maps/Otari North Woods.canvas"}
+	],
+	"edges":[]
+}

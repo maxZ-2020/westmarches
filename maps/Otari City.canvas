@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2f00edb715c7f0d3","x":-100,"y":40,"width":400,"height":400,"type":"file","file":"maps/Otari Underground.canvas"},
+		{"id":"42075325e317aa38","x":0,"y":-440,"width":250,"height":60,"type":"text","text":"Witch Shop"},
+		{"id":"60e72561abf59b08","x":-460,"y":-277,"width":250,"height":60,"type":"text","text":"Temple"},
+		{"id":"848fec9d4c98bea1","x":-25,"y":-100,"width":250,"height":60,"type":"text","text":"Fishery"},
+		{"id":"79f91a7747ff1042","x":-25,"y":-277,"width":250,"height":60,"type":"text","text":"Tavern"}
+	],
+	"edges":[
+		{"id":"784e58a4e7ebafc9","fromNode":"848fec9d4c98bea1","fromSide":"bottom","toNode":"2f00edb715c7f0d3","toSide":"top"}
+	]
+}

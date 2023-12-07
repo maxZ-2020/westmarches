@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c7a7e1dc7e9fb391","type":"text","text":"Road to/from Otari","x":-900,"y":-60,"width":250,"height":60},
+		{"id":"f7e6b34872645927","x":-440,"y":-160,"width":250,"height":60,"type":"text","text":"Path"},
+		{"id":"a77894e7a6778338","type":"file","file":"maps/Hill Site.md","x":-440,"y":160,"width":380,"height":180},
+		{"id":"439ae9dbcecf51fa","x":-72,"y":-43,"width":250,"height":60,"type":"text","text":"Woods"},
+		{"id":"72459171bacdc381","type":"text","text":"Path","x":-72,"y":-190,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a0bef697a4b6d6e9","fromNode":"c7a7e1dc7e9fb391","fromSide":"right","toNode":"a77894e7a6778338","toSide":"left"},
+		{"id":"768b813644ce5201","fromNode":"c7a7e1dc7e9fb391","fromSide":"right","toNode":"f7e6b34872645927","toSide":"left"},
+		{"id":"c724c0153a20e3ae","fromNode":"f7e6b34872645927","fromSide":"right","toNode":"439ae9dbcecf51fa","toSide":"left"},
+		{"id":"51a0625b734c38c0","fromNode":"f7e6b34872645927","fromSide":"right","toNode":"72459171bacdc381","toSide":"left"}
+	]
+}

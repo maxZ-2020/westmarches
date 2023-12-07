@@ -1,1 +1,10 @@
-{}
+{
+  "canvas-links:all-view": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ]
+}
