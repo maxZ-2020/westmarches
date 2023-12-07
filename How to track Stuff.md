@@ -34,6 +34,12 @@ If they leave them in a special Place then a reference is recorded there so thin
 * 2 Potion of Minor Healing
 * [[Example NPC 1]]
 
+# Maps
+
+When the spatial relationship of Entities are Important it is recorded in a Canvas.
+If the Entity has a Note the note is attached to the Canvas.
+
+
 
 
 
