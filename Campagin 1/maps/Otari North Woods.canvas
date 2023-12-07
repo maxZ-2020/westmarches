@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c3736d62bf2830a8","type":"file","file":"maps/Otari Underground.canvas","x":-92,"y":-178,"width":400,"height":400},
+		{"id":"c3736d62bf2830a8","type":"file","file":"Campagin 1/maps/Otari Underground.canvas","x":-92,"y":-178,"width":400,"height":400},
 		{"id":"341771f87b9952c6","type":"text","text":"Cave Entrance to Otari Underground","x":-61,"y":-334,"width":250,"height":60},
 		{"id":"62f4993050f50e1e","x":-61,"y":-440,"width":250,"height":60,"type":"text","text":"Dragon Wyrmlings Corpse"}
 	],

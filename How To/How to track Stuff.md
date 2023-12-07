@@ -21,19 +21,8 @@ Keeping Track of everything is kind of time consuming. Inventories and Locations
 
 Items that belong to the Player are Tracked by the Player.
 If they leave them in a special Place then a reference is recorded there so things can get stolen if need be.
-## Example Log for a Place
 
-### [[Example Session 3]]
-
-* 1 Potion of Minor Healing
-* 1 Dagger
-* Door - Open
-### [[Example Session 1]]
-
-* Locked Door
-* 2 Potion of Minor Healing
-* [[Example NPC 1]]
-
+Log for [[Example Place]]
 # Maps
 
 When the spatial relationship of Entities are Important it is recorded in a Canvas.

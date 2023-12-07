@@ -5,7 +5,7 @@
 		{"id":"a8f0a6d524b037ce","type":"text","text":"Hill Site","x":-200,"y":140,"width":250,"height":60},
 		{"id":"51e96650f7d3637f","type":"text","text":"Woods","x":-520,"y":60,"width":250,"height":50},
 		{"id":"2b74c7136a820807","type":"text","text":"Stick Path","x":-520,"y":-64,"width":250,"height":60},
-		{"id":"e13c43cb9d568037","x":-200,"y":240,"width":400,"height":400,"type":"file","file":"maps/Hill Site.canvas"}
+		{"id":"e13c43cb9d568037","x":-200,"y":240,"width":400,"height":400,"type":"file","file":"Campagin 1/maps/Hill Site.canvas"}
 	],
 	"edges":[
 		{"id":"06dd70af162662e2","fromNode":"0b3424369966f26e","fromSide":"left","toNode":"a9333cfc5a20e1a6","toSide":"right"},
